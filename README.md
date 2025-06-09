@@ -34,7 +34,7 @@ Download the correct version of ChromeDriver and make sure it’s in your system
 Clone this repository or copy the script.
 
 Add or update the list of item codes in the items list inside the script if needed.
----
+
 ## 🖥️ Usage
 Run the script:
 
@@ -62,7 +62,7 @@ SY2000-0R7G-S2: ❌ Not found on Partineh or Asamkala
 ---
 ## 📁 Output File
 A file named result.txt will be created in the same directory, containing the final results.
----
+
 ## 🛑 Notes
 This script runs in headless mode (no browser window pops up).
 
